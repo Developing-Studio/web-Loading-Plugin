@@ -4,8 +4,8 @@
 ## 사용법
 1. 아래의 방법을 보고 이 플러그인을 다운로드 받습니다. (master, dev 브랜치는 전체 파일 다운로드 전용 브랜치로, master, dev 브랜치에서는 다운로드 하지 마세요! 꼭 CDN 브랜치에서 해주세요!)
 
-![https://i.ibb.co/3NBDvfC/image.png](https://i.ibb.co/3NBDvfC/image.png)
-![https://i.ibb.co/FWZR7n0/image.png](https://i.ibb.co/FWZR7n0/image.png)
+![https://i.ibb.co/L5Tzx36/image.png](https://i.ibb.co/L5Tzx36/image.png)
+![https://i.ibb.co/9gGsmFt/image.png](https://i.ibb.co/9gGsmFt/image.png)
 
 2. 다운로드 받은 플러그인 파일의 압축을 풀어주세요.
 
